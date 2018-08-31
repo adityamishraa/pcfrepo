@@ -10,7 +10,7 @@
 
   <name>articulate</name>
   <description>Articulate the value of Cloud Foundry</description>
-
+<!--  testing the build -->
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
